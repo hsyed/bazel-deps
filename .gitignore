@@ -5,3 +5,5 @@ buildNumber.properties
 *.iml
 bazel-*
 .DS_Store
+# The default "data" directory of the ij project
+.project/*
